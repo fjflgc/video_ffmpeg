@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated media and test artifacts
+_av_selftest/
+_doc_check/
+frames/
+thumbs/
+preview/
+decoded.yuv
+decoded.rgb
+*.mp4
+*.mov
+*.m4v
+*.mkv
